@@ -1,7 +1,7 @@
 {
-  "name": "futuristicNodeEigen",
-  "website": "futuristicnodes.io",
-  "description": "",
-  "logo": "",
-  "twitter": ""
+  "name": "<OPERATOR_NAME>",
+  "website": "<WEBSITE>",
+  "description": "<DESCRIPTION>",
+  "logo": "<https://www.example.com/logo.png>",
+  "twitter": "<YOUR_TWITTER>"
 }
